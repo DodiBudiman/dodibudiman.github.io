@@ -26,7 +26,7 @@ hr {
 }
 .title {
   color: #303030;
-  font-size: 60px;
+  font-size: 55px;
   padding-bottom: 40px;
   text-transform: uppercase;
 }
@@ -95,7 +95,7 @@ hr {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;  
-  height: 100vh;
+  height: 150vh;
 }
 .tm-home-title,
  .tm-home-subtitle {
